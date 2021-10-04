@@ -38,7 +38,8 @@
 
 ## :dart: Sobre ##
 
-Jogo baseado em brinquedo Genius que foi bem popular durante a década de 80.  
+Jogo baseado em brinquedo Genius que foi bem popular durante a década de 80,
+construido durante a aula Criando jogo da memória estilo Genius da instrutora [Gabriela Pinheiro](https://github.com/SpruceGabriela).
 
 ## :rocket: Tecnologias ##
 
